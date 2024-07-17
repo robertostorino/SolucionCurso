@@ -1,0 +1,14 @@
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\bin\Debug\net8.0\Colecciones.exe
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\bin\Debug\net8.0\Colecciones.deps.json
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\bin\Debug\net8.0\Colecciones.runtimeconfig.json
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\bin\Debug\net8.0\Colecciones.dll
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\bin\Debug\net8.0\Colecciones.pdb
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.AssemblyInfoInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.AssemblyInfo.cs
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.csproj.CoreCompileInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.dll
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\refint\Colecciones.dll
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.pdb
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\Colecciones.genruntimeconfig.cache
+D:\Cursos\Pruebas\SolucionCurso\Colecciones\obj\Debug\net8.0\ref\Colecciones.dll

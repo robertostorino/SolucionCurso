@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Pruebas\\SolucionCurso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDE7F17-5F2E-4F2C-9288-492A9837CE59}|Colecciones\\Colecciones.csproj|d:\\cursos\\pruebas\\solucioncurso\\colecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDE7F17-5F2E-4F2C-9288-492A9837CE59}|Colecciones\\Colecciones.csproj|solutionrelative:colecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDE7F17-5F2E-4F2C-9288-492A9837CE59}|Colecciones\\Colecciones.csproj|d:\\cursos\\pruebas\\solucioncurso\\colecciones\\galaxia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDE7F17-5F2E-4F2C-9288-492A9837CE59}|Colecciones\\Colecciones.csproj|solutionrelative:colecciones\\galaxia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Galaxia.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\SolucionCurso\\Colecciones\\Galaxia.cs",
+              "RelativeDocumentMoniker": "Colecciones\\Galaxia.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\SolucionCurso\\Colecciones\\Galaxia.cs",
+              "RelativeToolTip": "Colecciones\\Galaxia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:24:38.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\SolucionCurso\\Colecciones\\Program.cs",
+              "RelativeDocumentMoniker": "Colecciones\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\SolucionCurso\\Colecciones\\Program.cs",
+              "RelativeToolTip": "Colecciones\\Program.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAiwJEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:19:08.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

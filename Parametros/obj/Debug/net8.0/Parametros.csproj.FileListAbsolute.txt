@@ -1,0 +1,14 @@
+D:\Cursos\Pruebas\SolucionCurso\Parametros\bin\Debug\net8.0\Parametros.exe
+D:\Cursos\Pruebas\SolucionCurso\Parametros\bin\Debug\net8.0\Parametros.deps.json
+D:\Cursos\Pruebas\SolucionCurso\Parametros\bin\Debug\net8.0\Parametros.runtimeconfig.json
+D:\Cursos\Pruebas\SolucionCurso\Parametros\bin\Debug\net8.0\Parametros.dll
+D:\Cursos\Pruebas\SolucionCurso\Parametros\bin\Debug\net8.0\Parametros.pdb
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.AssemblyInfoInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.AssemblyInfo.cs
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.csproj.CoreCompileInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.dll
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\refint\Parametros.dll
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.pdb
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\Parametros.genruntimeconfig.cache
+D:\Cursos\Pruebas\SolucionCurso\Parametros\obj\Debug\net8.0\ref\Parametros.dll

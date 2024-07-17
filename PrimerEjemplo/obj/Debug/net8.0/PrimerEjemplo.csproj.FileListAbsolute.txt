@@ -1,0 +1,14 @@
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.exe
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.deps.json
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.runtimeconfig.json
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.dll
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.pdb
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.AssemblyInfoInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.AssemblyInfo.cs
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.csproj.CoreCompileInputs.cache
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.dll
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\refint\PrimerEjemplo.dll
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.pdb
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.genruntimeconfig.cache
+D:\Cursos\Pruebas\SolucionCurso\PrimerEjemplo\obj\Debug\net8.0\ref\PrimerEjemplo.dll
